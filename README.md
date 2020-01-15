@@ -26,9 +26,9 @@ The main aims of creating the TWIL club are:
 **PROPSALS SUBMISSIONS**  
 if you want to give a talk in one of T W I L's sessions, please make a pull request to this repository adding a file in this format:  
 
-> name:
-> title:
-> description:
+> name:  
+> title:  
+> description:  
 </br>
 **MODERATORS**  
 [M'bark Erras](http://github.com/MbarkErras).
