@@ -13,14 +13,3 @@ if you want to give a talk in one of T W I L's sessions, please make a pull requ
 > name:  
 > title:  
 > description:
-</br>
-**FORMAT**  
-The TWIL session are going to be organized on weekly basis.  
-</br>
-There will be multiple formats of speeches:  
-* **Lecture** *(30 min --extendable)*: direct talk about specific subject.
-* **Quickie** *(10-15 min)*: brief talk where the focus is on providing keywords for later search.
-* **Tools-in-Action** *(30 min)*: a presentation of a tool that includes demos and best practices.  
-</br>
-**MODERATORS**  
-[M'bark Erras](http://github.com/MbarkErras).
