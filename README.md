@@ -13,3 +13,6 @@ if you want to give a talk in one of T W I L's sessions, please make a pull requ
 > name:  
 > title:  
 > description:
+
+**MODERATORS**
+@github/MbarkErras
