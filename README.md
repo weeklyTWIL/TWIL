@@ -15,7 +15,8 @@ There will be multiple formats of speeches:
 * **Quickie** *(10-15 min)*: brief talk where the focus is on providing keywords for later search.
 * **Tools-in-Action** *(30 min)*: a presentation of a tool that includes demos and best practices.
 
-</br>  
+</br>
+
 **PROPSALS SUBMISSIONS**  
 if you want to give a talk in one of T W I L's sessions, please make a pull request to this repository adding a file in this format:  
 
@@ -24,5 +25,6 @@ if you want to give a talk in one of T W I L's sessions, please make a pull requ
 > description:
 
 </br>
+
 **MODERATORS**
 [M'bark Erras](https://github.com/MbarkErras)
