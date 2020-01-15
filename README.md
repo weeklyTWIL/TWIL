@@ -20,9 +20,9 @@ There will be multiple formats of speeches:
 **PROPSALS SUBMISSIONS**  
 if you want to give a talk in one of T W I L's sessions, please make a pull request to this repository adding a file in this format:  
 
-> name:  
-> title:  
-> description:
+    > name:  
+    > title:  
+    > description:
 
 </br>
 
