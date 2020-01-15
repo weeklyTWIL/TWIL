@@ -16,6 +16,7 @@ There will be multiple formats of speeches:
 * **Tools-in-Action** *(30 min)*: a presentation of a tool that includes demos and best practices.
 
 </br>
+
 **PROPSALS SUBMISSIONS**  
 if you want to give a talk in one of T W I L's sessions, please make a pull request to this repository adding a file in this format:  
 
