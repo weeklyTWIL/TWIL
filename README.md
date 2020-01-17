@@ -20,7 +20,8 @@ if you want to give a talk in one of T W I L's sessions, please make a pull requ
 
     name:  
     title:  
-    description:
+    description:  
+    format:
 
 **MODERATORS**  
 [M'bark Erras](https://github.com/MbarkErras), [Youssef Lagtab](https://github.com/vanderwolk).
