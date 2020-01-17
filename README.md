@@ -1,6 +1,6 @@
 **NAME**  
 T W I L - Stands for "This Week I Learned"  
-</br>
+  
 **SYNOPSIS**  
 TWIL [Students Club]  
   
