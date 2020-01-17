@@ -25,3 +25,11 @@ if you want to give a talk in one of T W I L's sessions, please make a pull requ
 
 **MODERATORS**  
 [M'bark Erras](https://github.com/MbarkErras), [Youssef Lagtab](https://github.com/vanderwolk).
+
+<ul>
+	{% for post in site.posts %}
+    	<li>
+	    	<a href="{{ post.url }}">{{ post.title }}</a>
+		</li>
+	{% endfor %}
+</ul>
