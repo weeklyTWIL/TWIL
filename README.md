@@ -1,11 +1,11 @@
 **NAME**  
-T W I L - Stands for "This Week I Learned"  
+T W I L - stands for "This Week I Learned"  
   
 **SYNOPSIS**  
-TWIL [Students Club]  
+TWIL [students club]  
   
 **DESCRIPTION**  
-TWIL Club is dedicated to enable students to share what they have learned, the subjects might be any tech related discipline (e.g., Algorithms and AI, Networking and Security, Graphics, Mathematics, ..).  
+TWIL club is dedicated to enable students to share what they have learned, the subjects might be any tech related discipline (e.g., Algorithms and AI, Networking and Security, Graphics, Mathematics, ..).  
   
 **FORMAT**  
 The TWIL session are going to be organized on weekly basis.  
